@@ -19,7 +19,7 @@ into code.
 * S3 (on S3 branch)
 * Optional Github to Cloud deployment via Travis
 
-## What You Will Need
+## What You Will Needdd
 
 * [Amazon Developer Portal Account](http://developer.amazon.com)
 * [Amazon Web Services Account](http://aws.amazon.com/)
